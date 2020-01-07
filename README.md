@@ -1,1 +1,2 @@
-# KBC-Quiz-
+# KBC Quiz
+just a beginner level project.
