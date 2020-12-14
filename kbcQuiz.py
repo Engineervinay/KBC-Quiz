@@ -234,7 +234,7 @@ info()
 while(q!=13):
     for i in range(a,b):
         print(f.readline())
-    answ = input("enter your answer")
+    answ = input("enter your answer: ")
 
     #code starting for lifeline
 
