@@ -28,7 +28,7 @@ def googlehelp():
     print("in this lifeline you will be given 1 minute of time and you can take help of google to answwer your question")
 
 
-print(color.BOLD + color.BLUE + "\n\n\n             WELCOME TO KAUN BANEGA CROREPATI BY UTSAV  MEHROTRA")
+print(color.BOLD + color.BLUE + "\n\n\n             WELCOME TO KAUN BANEGA CROREPATI BY VINAY PATIL")
 
 
 def info():
