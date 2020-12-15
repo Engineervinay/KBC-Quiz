@@ -2,7 +2,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 just a beginner level project made by me [www.github.com/engineervinay]
-LINK TO VIDEO
+L
+
+*LINK TO VIDEO
 [https://youtu.be/IDg2gjfDHu0]
 ## Support Me
 If you liked this, leave a star! :star:
